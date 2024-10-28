@@ -1,3 +1,6 @@
+/*  Desafio de criar um programa que lê a quantidade de dedos que o user quer contar e o programa apresenta quantos dedos serão levantados em cada mão. */    
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
